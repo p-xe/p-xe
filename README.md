@@ -3,8 +3,8 @@
 <p align="center">
   <br>
   <samp>
-    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Kriis</a></b>.
-    <br>python dev<br>
+    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">tk</a></b>.
+    <br><br>
 
 </samp>
 
