@@ -1,3 +1,18 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Do-Not-Disturb?color=fc4409&labelColor=434343&icon=discord)](https://github.com/p-xe/p-xe)
-
 ![](https://komarev.com/ghpvc/?username=p-xe)
+
+<p align="center">
+  <br>
+  <samp>
+    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Kriis</a></b>.
+    <br>python dev<br>
+
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
+
+<p align="center">
+  <br><br>
+  <img src="https://discord.c99.nl/widget/theme-2/933396935182778388.png">
+</p>
