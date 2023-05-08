@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Tk</a></b>.
+    im <b><a rel="nofollow noopener noreferrer" target="_blank">xx :)</a></b>.
     <br><br>
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1025076968512177081/BEEC3574BBD5FE1AAA0660DF36AD0DA9658F9342/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200"/>
