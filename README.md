@@ -16,6 +16,6 @@ just a random who codes for fun<br><br>[![Discord Presence](https://lanyard.cnra
 
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://media.discordapp.net/attachments/955229317854539840/1300981062742179920/IMG_1741.webp?ex=6722d088&is=67217f08&hm=d58c2f1c9d5a1d91ea8d912a8a781129679965f26cc8b137f470664b747c6112&' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
