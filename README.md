@@ -1,5 +1,5 @@
 # 💫 About Me:
-just a random who codes for fun<br><br>[![Discord Presence](https://lanyard.cnrad.dev/api/317817292563939330)](https://discord.com/users/317817292563939330)
+just a random who codes for fun<br><br>[![Discord Presence](https://lanyard.cnrad.dev/api/933396935182778388)](https://discord.com/users/933396935182778388)
 
 
 ## 🌐 Socials:
