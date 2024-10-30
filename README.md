@@ -13,7 +13,7 @@ just a random who codes for fun<br><br>[![Discord Presence](https://lanyard.cnra
 ![](https://github-profile-trophy.vercel.app/?username=p-xe&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://github-readme-quotes-bay.vercel.app/quote)
+![](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula)
 
 
 ### 😂 Random Dev Meme
