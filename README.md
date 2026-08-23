@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi, i code when im bored 🥰<br><br>[![Discord Presence](https://lanyard.cnrad.dev/api/1518097017618829342)](https://discord.com/users/933396935182778388)
+hi, i code when im bored 🥰<br><br>[![Discord Presence](https://lanyard.cnrad.dev/api/1518097017618829342)](https://discord.com/users/1518097017618829342)
 
 
 # 💻 Tech Stack:
